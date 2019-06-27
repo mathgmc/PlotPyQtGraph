@@ -12,4 +12,4 @@
 ### Output
   Show a graphic with the plotted information and saves an image of it.
   
-  ![Output](output.png)
+  ![Output](output.png|width=100)
